@@ -1,0 +1,1 @@
+this is @{name},you can do @{result}. 
